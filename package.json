@@ -1,0 +1,30 @@
+{
+  "name": "nftgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonnyGabc/NFTGAME.git"
+  },
+  "author": "Jonathan Grizos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonnyGabc/NFTGAME/issues"
+  },
+  "homepage": "https://github.com/JonnyGabc/NFTGAME#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "dotenv": "^10.0.0",
+    "hardhat": "^2.6.5",
+    "nodemon": "^2.0.13",
+    "solc": "^0.8.0"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.0.0"
+  }
+}
