@@ -17,9 +17,10 @@
   },
   "homepage": "https://github.com/JonnyGabc/NFTGAME#readme",
   "dependencies": {
-    "@alch/alchemy-web3": "^1.1.4",
+    "@alch/alchemy-web3": "^1.1.5",
     "@openzeppelin/contracts": "^4.3.2",
     "dotenv": "^10.0.0",
+    "ganache": "^6.4.5",
     "hardhat": "^2.6.5",
     "nodemon": "^2.0.13",
     "solc": "^0.8.0"

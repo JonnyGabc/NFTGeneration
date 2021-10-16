@@ -428,8 +428,8 @@
       ]
     },
     "C:\\Users\\Winston\\Desktop\\NFTGAME\\contracts\\SkinToken.sol": {
-      "lastModificationDate": 1634166278905,
-      "contentHash": "3cd7f18d64fcda69ca996933135a69b5",
+      "lastModificationDate": 1634410608377,
+      "contentHash": "b8dbc65c65ad3f9029394368371cb8f2",
       "sourceName": "contracts/SkinToken.sol",
       "solcConfig": {
         "version": "0.8.0",
